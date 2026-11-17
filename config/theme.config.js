@@ -1,16 +1,17 @@
+
 export default Object.freeze({
-  botTitle: "🤖 ꜰᴇɪ xᴍᴅ ʙᴏᴛ",
+  botTitle: "🤖 𓆩 X-KIRA MD 𓆪",
   menu: {
-    top: "╭━━〔 ",
-    titleEnd: " 〕━━┈⊷",
-    infoLine: "┃ ✫ ",
-    itemLine: "┃ ✫✧│ ",
+    top: "╭━━━〔 ",
+    titleEnd: " 〕━━━✦",
+    infoLine: "┃ ❖ ",
+    itemLine: "┃ ⬡ ✧ ",
     blankLine: "┃",
-    bottom: "╰━━━━━━━━━━━━┈⊷"
+    bottom: "╰━━━━━━━━━━━━━━✦"
   },
   sections: [
     { key: "General", title: "🏠 ɢᴇɴᴇʀᴀʟ", categories: ["General"] },
-    { key: "AI & Chat", title: "🧠 ᴀɪ ᴄʜᴀᴛ", categories: ["AI & Chat"] },
+    { key: "AI & Chat", title: "🧠 ᴀɪ & ᴄʜᴀᴛ", categories: ["AI & Chat"] },
     { key: "AI Media", title: "🎨 ᴀɪ ᴍᴇᴅɪᴀ", categories: ["AI Media"] },
     { key: "News Desk", title: "📰 ɴᴇᴡs ᴅᴇsᴋ", categories: ["News"] },
     { key: "Group Tools", title: "👥 ɢʀᴏᴜᴘ ᴛᴏᴏʟs", categories: ["Group"] },
@@ -53,7 +54,7 @@ export default Object.freeze({
     },
     { key: "Canvas Tools", title: "🖼 ᴄᴀɴᴠᴀs ᴛᴏᴏʟs", categories: ["Canvas"] },
     { key: "Media Tools", title: "🛠️ ᴍᴇᴅɪᴀ ᴛᴏᴏʟs", categories: ["Media & Tools"] },
-    { key: "Chat Privacy", title: "🔒 ᴄʜᴀᴛ ᴘʀɪᴠᴀᴄʏ", categories: ["Chat & Privacy"] },
+    { key: "Chat Privacy", title: "🔐 ᴄʜᴀᴛ ᴘʀɪᴠᴀᴄʏ", categories: ["Chat & Privacy"] },
     { key: "Status Tools", title: "📱 sᴛᴀᴛᴜs ᴛᴏᴏʟs", categories: ["Status"] },
     { key: "Owner Tools", title: "👑 ᴏᴡɴᴇʀ ᴛᴏᴏʟs", categories: ["Owner"] }
   ]
